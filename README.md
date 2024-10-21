@@ -1,1 +1,1 @@
-Readme modified by featureA
+This is readme after resolved conflict
